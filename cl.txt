@@ -1,1 +1,3 @@
 Command Line day 1 homework
+
+create a new file using touch
